@@ -2,3 +2,4 @@
 PIPELINE_ID = "00af4caa"
 BATCH_1 = ("2026-11-10", "00af4caa")
 BATCH_2 = ("2026-11-12", "2a807344")
+BATCH_3 = ("2026-11-14", "a9b8e4cf")
